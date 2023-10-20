@@ -1,0 +1,21 @@
+Dear James, 
+
+Thank you for the effort you have put into this project. Based on the provided rubric, here are my evaluations of your submission. 
+
+Pseudocode for Prerequisites: Prerequisites were adequately expressed in your pseudocode. The logic was handled well, considering 'if prerequisiteN exists' condition. You get 8.5/10 for this.
+
+Pseudocode for Menu: Your menu pseudocode was comprehensive, detailing what happens for each user input. Clearly, articulating each functionality associated with the option is commendable. This will earn you 10/10. 
+
+Pseudocode for Course list: The sorting is not included in pseudocode, and this might cause issues in how we determine course order as required in the assignment. This served as a slight issue in understanding the output. The grade for this will be 11/20. 
+
+Run-Time Evaluation: Although you had considerable observations for the actual tests run during prior projects, the theoretical algorithm complexity explanation was lacking and this is what we were aiming to gauge with this criteria. For this, your grade will be 11/20. 
+
+Advantages and Disadvantages: Depth assessement on advantages and disadvantages is missing in the submission, although you have knowledge of it. Hence, you'll get 8.25/15 for this.
+
+Recommendation: You have clearly stated which data structure you will opt for but haven't justified why it should be chosen over others, nor mentioned its trade-offs. A more detailed justification is needed. You’ve earned 11 of 20 for this aspect.
+
+Articulation of Response: Your language and articulation were clear, with minor grammatical errors that did not disrupt the readability. I’ll give you 5/5.
+
+Indeed, professional communication and clear articulation are essential. Therefore, such work is commendable and appreciated. However, the necessary theoretical aspects, particularly in determining runtime efficiency and data structure choice justifications should be extensively explored. These details complement the practical implications (running test of various data structures) by enhancing deeper analytical and comprehension capacities of data algorithms.
+
+Keep up the good work, work on the given feedback and you continue to grow in the understanding of how algorithms and data structures work.
